@@ -1,0 +1,5 @@
+{
+  "name": "CAV Hair Formula Generator",
+  "description": "A professional hair color formula generator for the CAV Professional color system. It calculates exact formulas for hair stylists based on hair condition, desired color, and available tones.",
+  "requestFramePermissions": []
+}
